@@ -1,0 +1,2 @@
+Hello students!
+this is our first session of git.
